@@ -9,7 +9,7 @@ Author URI: http://ma.tt/
 */
 
 function hello_world_func(){
-    return "Hello Keyss! This is my First Plugin."; 
+    return "Hello Keyss!  Plugin."; 
 }
 
 add_shortcode('hello_test','hello_world_func');
