@@ -9,7 +9,7 @@ Author URI: http://ma.tt/
 */
 
 function hello_world_func(){
-    return "Hello there !  Plugin."; 
+    return "Hello there!  For Demo Plugin."; 
 }
 
 add_shortcode('hello_test','hello_world_func');
